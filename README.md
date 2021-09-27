@@ -1,1 +1,1 @@
-# js-mini-2
+# GameUsingJavascript
